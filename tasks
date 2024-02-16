@@ -61,6 +61,8 @@
 # to push the changes to remote server 
 - git push "repolink"
 
+
+
 # First time it will ask for Authorization , popup from github where u need to input the login details
 
 # to pull the changes to remote server 
